@@ -1,2 +1,2 @@
 # mi_primer_repositorio
-#Esto es un saludo GitHub
+#Esta es la rama 2

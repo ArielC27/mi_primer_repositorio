@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\bin\Debug\net6.0\Ejercicio_Votacion.exe
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\bin\Debug\net6.0\Ejercicio_Votacion.deps.json
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\bin\Debug\net6.0\Ejercicio_Votacion.runtimeconfig.json
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\bin\Debug\net6.0\Ejercicio_Votacion.dll
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\bin\Debug\net6.0\Ejercicio_Votacion.pdb
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\obj\Debug\net6.0\Ejercicio_Votacion.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\obj\Debug\net6.0\Ejercicio_Votacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\obj\Debug\net6.0\Ejercicio_Votacion.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\obj\Debug\net6.0\Ejercicio_Votacion.AssemblyInfo.cs
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\obj\Debug\net6.0\Ejercicio_Votacion.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\obj\Debug\net6.0\Ejercicio_Votacion.dll
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\obj\Debug\net6.0\refint\Ejercicio_Votacion.dll
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\obj\Debug\net6.0\Ejercicio_Votacion.pdb
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\obj\Debug\net6.0\Ejercicio_Votacion.genruntimeconfig.cache
+C:\Users\marce\Desktop\Visual\Ejercicio_Votacion\Ejercicio_Votacion\obj\Debug\net6.0\ref\Ejercicio_Votacion.dll
